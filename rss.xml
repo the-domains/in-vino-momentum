@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[In Vino Momentum]]></title>
         <description><![CDATA[In Vino Momentum]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/in-vino-momentum/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 07:17:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 May 2016 07:17:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/in-vino-momentum/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c293b31-b17a-476d-8453-3eec069daae4.jpg">]]></description>
+            <link>https://thegrid.ai/in-vino-momentum/springtime/index.html</link>
+            <guid isPermaLink="false">11379b71-57a9-4580-be8e-83318a2e674c</guid>
+            <pubDate>Thu, 12 May 2016 07:17:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bad7fe04-5167-4bfa-babe-2e02abbdee80.jpg">]]></description>
-            <link>undefinedthe-cellar/index.html</link>
+            <link>https://thegrid.ai/in-vino-momentum/the-cellar/index.html</link>
             <guid isPermaLink="false">aa3c9aaf-78ee-4021-985f-c6bd34c84df8</guid>
             <pubDate>Thu, 12 May 2016 07:17:13 GMT</pubDate>
         </item>

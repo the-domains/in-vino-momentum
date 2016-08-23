@@ -19,12 +19,19 @@ analytics:
   twitter: null
   google: null
   facebook: null
+author:
+  name: In Vino Momentum | Jurgen Retra
+  email: info@invinomomentum.nl
+  url: thegrid.ai/invinomomentum
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/47506852-bb22-4baf-b301-9f61188fc049.jpg
 name: In Vino Momentum
 cta:
   bucket: null
   version: null
   domain: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a73a8152-aa4d-48fb-82ab-c1d3f3a7a506.jpg
 collections:
   - index:
       path: /

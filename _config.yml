@@ -30,6 +30,10 @@ cta:
   bucket: null
   version: null
   domain: null
+navigation:
+  - name: Old site
+    url: 'http://www.invinomomentum.nl'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a73a8152-aa4d-48fb-82ab-c1d3f3a7a506.jpg
 collections:

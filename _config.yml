@@ -1,9 +1,30 @@
-favicon: null
-name: In Vino Momentum
+typography_spectrum: 0
+color:
+  saturation: 1
+  brandStrength: 0.152795372530818
+  lightness: 1
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  rhythmicContrast: 1
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: In Vino Momentum
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -17,24 +38,3 @@ collections:
       format: rss
       number: 10
 purpose: []
-color:
-  saturation: 1
-  brandStrength: 0.152795372530818
-  lightness: 1
-  brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  rhythmicContrast: 1
-typography_spectrum: 0
-layout_spectrum: 1
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
